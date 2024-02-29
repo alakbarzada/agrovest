@@ -148,4 +148,97 @@
         
         margin-top: 20px;
     }
+
 }
+.photo-agrovest{
+    width: 100%;
+    padding-top: 10px;
+}
+@media(min-width:992px){
+    .photo-agrovest{
+        width: 30%;
+    }
+}
+.container-head-text{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.1em;
+text-align: center;
+color: #303030;
+width: 100% ;
+}
+@media(min-width:992px){
+    .container-head-text{
+        width: 50%;
+    }
+}
+.text-color-1{
+    height: 1px;
+    width: 100%;
+    background: #8FC53C59;
+    ;
+}
+@media(min-width:992px){
+    .text-color-1{
+        width: 50%;
+    }
+}
+
+.text-color-2{
+    height: 1px;
+    width: 100%;
+    background: #8FC53C59;
+margin-top: 10px;
+}
+@media(min-width:992px){
+    .text-color-2{
+        width: 50%;
+    }
+}
+.container-title-text{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.1em;
+text-align: center;
+width: 100%;
+
+}
+@media(min-width:992px){
+    .container-title-text{
+        width: 50%;
+    }
+}
+.text-color-3{
+    height: 1px;
+    width: 100%;
+    background: #8FC53C59;
+margin-top: 10px;
+}
+@media(min-width:992px){
+    .text-color-3{
+        width: 50%;
+    }
+}
+.container-text{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.1em;
+text-align: center;
+width: 100%;
+}
+@media(min-width:992px){
+   .container-text{
+        width: 50%;
+    }
+}
+
+
+
+
+
