@@ -281,6 +281,14 @@ opacity: 1;
 padding: 30px;
 color: white;
 line-height: 54px;
+
+}
+.menu-list a{
+    color: white;
+    text-decoration: none;
+}
+.menu-list a :hover{
+    color: #cadeab;
  }
 
 .delete-menu{
